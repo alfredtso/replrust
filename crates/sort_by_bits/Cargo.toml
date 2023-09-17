@@ -1,5 +1,5 @@
 [package]
-name = "invert_btree"
+name = "sort_by_bits"
 version = "0.1.0"
 edition = "2021"
 
